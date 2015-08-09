@@ -1,0 +1,22 @@
+#EXTM3U
+#EXTINF:-1,Eurosport
+http://edge.ailetv.net/org16/eurosportrus_me/playlist.m3u8
+#EXTINF:-1,Eurosport 2
+http://edge.ailetv.net/org9/eurosport2_me/playlist.m3u8
+#EXTINF:-1,Eurosport
+http://hlsstr04.svc.iptv.rt.ru/hls/CH_EUROSPORT/variant.m3u8
+#EXTINF:-1,EurosportHD
+http://hlsstr04.svc.iptv.rt.ru/hls/CH_C02_EUROSPORTHD/variant.m3u8
+#EXTINF:-1,Eurosport 2
+http://hlsstr02.svc.iptv.rt.ru/hls/CH_EUROSPORT2/variant.m3u8
+#EXTINF:-1,Eurosport News
+http://hlsstr04.svc.iptv.rt.ru/hls/CH_EUROSPORTNEWS/variant.m3u8
+#EXTINF:-1,Teledeporte HD
+http://81.37.13.81:4022/udp/239.0.0.188:8208
+#EXTINF:-1,Gol 2 Internacional HD
+http://81.37.13.81:4022/udp/239.0.9.146:8208
+#EXTINF:-1,CANAL+ 1 (ES) (DA)
+http://euroiptv2.mine.nu:80/live?
+#EXTINF:-1,Motors TV 
+http://46.61.226.18/hls/CH_MOTORSTV/bw1500000/variant.m3u8?version=2
+
